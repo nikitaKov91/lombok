@@ -1,5 +1,7 @@
-package learn.lombok;
+package learn.lombok.setter.getter;
 
+import learn.lombok.setter.getter.SetGetExample;
+import learn.lombok.setter.getter.SetGetExampleChild;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

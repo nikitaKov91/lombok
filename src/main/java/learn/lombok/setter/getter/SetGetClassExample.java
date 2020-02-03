@@ -1,4 +1,4 @@
-package learn.lombok;
+package learn.lombok.setter.getter;
 
 import lombok.AccessLevel;
 import lombok.Getter;

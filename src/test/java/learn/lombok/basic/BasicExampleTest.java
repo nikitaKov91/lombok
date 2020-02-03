@@ -1,3 +1,6 @@
+package learn.lombok.basic;
+
+import learn.lombok.basic.BasicExample;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -15,7 +18,7 @@ class BasicExampleTest {
         basicExample.setName(newName);
         assertEquals(newName, basicExample.getName());
         System.out.println(basicExample.toString());
-        assertEquals("BasicExample(id=" + id + ", name=" + newName + ")", basicExample.toString());
+        assertEquals("learn.lombok.basic.BasicExample(id=" + id + ", name=" + newName + ")", basicExample.toString());
     }
 
 

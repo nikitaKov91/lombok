@@ -1,3 +1,5 @@
+package learn.lombok.basic;
+
 import lombok.Data;
 
 @Data public class BasicExample {

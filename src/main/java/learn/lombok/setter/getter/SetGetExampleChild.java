@@ -1,4 +1,4 @@
-package learn.lombok;
+package learn.lombok.setter.getter;
 
 public class SetGetExampleChild extends SetGetExample {
 
