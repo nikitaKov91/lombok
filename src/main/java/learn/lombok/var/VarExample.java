@@ -2,6 +2,8 @@ package learn.lombok.var;
 
 import java.util.ArrayList;
 
+import lombok.var;
+
 public class VarExample {
 
     public static String example() {
